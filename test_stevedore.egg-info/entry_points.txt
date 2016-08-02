@@ -1,0 +1,4 @@
+[example.sayhello]
+dog = example.mydog.dog:Dog
+pig = example.mypig.pig:Pig
+
